@@ -1,0 +1,17 @@
+# Entorno virtual de Python
+venv/
+
+# Datos originales pesados (NO subir a GitHub)
+data/raw/
+*.log
+*.csv.gz
+
+# Caché de Quarto
+.quarto/
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
