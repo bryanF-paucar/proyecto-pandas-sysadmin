@@ -1,0 +1,12 @@
+---
+title: "Análisis de Web Service Access Logs"
+author: "Bryan Paucar"
+date: today
+format: html
+---
+
+## Hola mundo
+
+Esto es una prueba inicial del informe Quarto del proyecto de análisis de logs con Pandas.
+
+Si estás viendo esta página en la web, la infraestructura funciona correctamente.
