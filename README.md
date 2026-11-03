@@ -1,14 +1,18 @@
-# Proyecto: Análisis de Web Service Access Logs con Pandas
+# Proyecto: Análisis de Tráfico de Red y Ciberseguridad (UNSW-NB15)
 
-Trabajo de análisis de datos para administración de sistemas.
+Trabajo de análisis de datos orientado a la administración de sistemas (SysAdmin) utilizando la librería Pandas de Python.
 
-## Contenido
-- `informe.qmd`: informe Quarto con el análisis completo.
-- `data/processed/`: muestra anonimizada del dataset utilizada en el análisis.
-- `images/`: gráficos exportados.
+## Contenido del repositorio
+- `informe.qmd`: Código fuente del informe Quarto con el análisis completo, interpretaciones y visualizaciones.
+- `index.html`: Informe web renderizado y listo para visualizar (GitHub Pages).
+- `data/processed/`: Dataset UNSW-NB15 limpio y optimizado en formato Parquet.
+- `informe_files/`: Recursos generados automáticamente por Quarto (imágenes estáticas y estilos).
 
-## Publicación
-Informe web: (pendiente)
+## Publicación Web
+El informe final interactivo está disponible en el siguiente enlace:
+[https://bryanf-paucar.github.io/proyecto-pandas-sysadmin/](https://bryanf-paucar.github.io/proyecto-pandas-sysadmin/)
 
 ## Autoría
-- [Nombre del alumno/equipo]
+- Bryan Paucar
+- Fred Ruiz
+- Xiomara Valenzuela
